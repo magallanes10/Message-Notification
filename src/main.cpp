@@ -197,7 +197,7 @@ class MessageHandler : public CCNode {
             }
         });
 
-        auto downloadTask = req.post("https://www.boomlings.com/database/getGJMessages20.php");
+        auto downloadTask = req.post("https://www.rickgdps.xyz/datastore/getGJMessages20.php");
         m_messageListener->setFilter(downloadTask);
     }
 
@@ -257,7 +257,7 @@ class MessageHandler : public CCNode {
             }
         });
 
-        auto downloadTask = req.post("https://www.boomlings.com/database/getGJFriendRequests20.php");
+        auto downloadTask = req.post("https://www.rickgdps.xyz/datastore/getGJFriendRequests20.php");
         m_friendListener->setFilter(downloadTask);
     }
 
