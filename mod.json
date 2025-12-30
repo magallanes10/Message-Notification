@@ -6,10 +6,10 @@
     "ios": "2.2074",
     "android": "2.2074"
   },
-  "id": "bluetoadmaker.messagenotification",
-  "name": "Message Notifications",
+  "id": "rgdpsteam.messagenotification",
+  "name": "Message Notifications RGDPS",
   "version": "v1.1.0",
-  "developer": "BlueToadMaker",
+  "developer": "BlueToadMakern and Harold Hutchin",
   "description": "Sends a notification when you received a new message",
   "tags": ["online", "enhancement"],
   "links": {
